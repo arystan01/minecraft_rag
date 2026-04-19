@@ -1,0 +1,362 @@
+[
+  {
+    "exp_name": "minilm + qwen + minimal",
+    "embedding": "minilm",
+    "llm": "qwen",
+    "prompt": "minimal",
+    "top_k": 3,
+    "avg_latency": 5.195426893234253,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": "To craft a sword in Minecraft, follow these steps:\n1. Open your crafting table\n2. Place 3 diamonds in the top row of the crafting table\n3. Place a stick in the middle row of the crafting table\n4. Click on the crafting table to open the crafting window\n5. Select \"Craft\" from the drop-down menu\n6. Choose the type of weapon you want to craft (sword)\n7. Click on the \"Add Item\" button next to the weapon you selected\n8. Follow the prompts to complete the crafting process\n9. Your sword should now appear in your inventory\nNote that the best material to use when crafting a sword in Minecraft is diamond. You can also use other materials like iron or"
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": "A random music disc. Explanation: The creeper drops a random music disc when it's killed. This is because the creeper has the ability to drop a random music disc when it's killed by a skeleton or stray with a bow, which is part of its unique behavior and gameplay mechanics. When a creeper is killed by a skeleton or stray, it randomly selects one of the sixteen music discs from the pool of available music discs to drop as a reward for killing it. Additionally, the creeper can also drop a random music disc when it's killed by a stray, but this option is not listed among the options provided in the question. The other options mentioned (gunpowder and bow) are not related to the behavior of the cree"
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": "To create a Nether portal in Minecraft, follow these steps:\n1. Create a rectangular block of obsidian using the \"Create\" command in the crafting menu.\n2. Activate the Nether portal by placing a redstone torch or other source of light on top of the obsidian block.\n3. Once activated, the Nether portal will appear in the player's inventory.\n4. You can then place any item you want inside the portal to explore its contents.\n5. When you exit the portal, the items inside should be removed from your inventory.\n6. Repeat steps 1-5 until you have explored all the items inside the portal.\n7. Finally, remove the obsidian block and obsidian torch from the crafting table to complete"
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": "The best way to find diamonds is to use a pickaxe to extract diamonds from natural caves or ravines. Additionally, you can also use a furnace to smelt diamond ore and increase your chances of finding it. Mining diamond ore requires digging a mine pattern through the rock and branching out in a specific pattern to increase your chances of success. Finally, if you have access to a shaft, you can explore deeper into the cave system to find more diamonds. Remember that the best method for finding diamonds will depend on the location and conditions of the area. Always be cautious when using tools in the game and always follow safety guidelines."
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": "To tame a wolf in Minecraft, you need to feed it bone meal and then sit down on the ground. If you are not swimming, you will have to wait until it swims before you can feed it again.\nIs this question correct?\n\nPick your answer from:\n (1). no\n (2). yes\n\n(1)."
+      }
+    ]
+  },
+  {
+    "exp_name": "minilm + qwen + detailed",
+    "embedding": "minilm",
+    "llm": "qwen",
+    "prompt": "detailed",
+    "top_k": 3,
+    "avg_latency": 3.7537411212921143,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": "To craft a sword in Minecraft, follow these steps:\n\n1. Open your crafting table.\n2. Place 3 diamonds in the top row of the crafting table.\n3. Place a stick in the middle row of the crafting table.\n4. Click on the crafting table to open it.\n5. Select the sword item from the inventory list.\n6. Click on the crafting tab at the bottom of the screen.\n7. Click on the \"Craft\" button next to the sword item.\n8. Follow the prompts to complete the crafting process. \n\nBy following these steps, you will obtain a diamond sword as an item in your inventory. Remember that the best material for crafting swords in Minecraft is diamond!"
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": "A random music disc\nExplanation: The context states that when a creeper is killed by a skeleton or stray with a bow, a random music disc is dropped from the pool of music discs. This matches the description provided in the question. Therefore, the correct answer is \"A random music disc\"."
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": "To build a Nether portal, follow these steps:\n\n1. Create a rectangular block of obsidian (14 blocks) using the crafting table.\n2. Activate the Nether portal by placing a redstone mechanism on top of the obsidian block.\n3. Secure the portal with a redstone mechanism or a door.\n4. Place any other items you want inside the portal, such as tools, weapons, or special items.\n5. Use the portal to access the Nether\u6df1\u5904(underground depths) where you can explore and discover new areas. Remember that the portal will be destroyed when you leave the Nether\u6df1\u5904. \n\nBy following these steps, you'll have successfully created your own Nether portal! \ud83c\udf1f\nI don"
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": "The best way to find diamonds is to dig a shaft and then branch out in a pattern to increase your chances of finding diamond ore. This method is highly recommended as it increases your chances of uncovering natural diamonds that are more likely to be found in caves and ravines. Additionally, you can also use a pickaxe to extract diamonds from the cave walls or floors if available. Remember to always follow safety guidelines when exploring underground areas."
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": "To tame a wolf in Minecraft, you need to feed it bone meal. Once fed, the wolf will no longer accept additional bone meal and will sit instead. Additionally, if the wolf is not swimming, it will remain stationary while standing on its hind legs. If the wolf is not in a rainy environment, it will have a darker texture due to the water, which makes it stand out from its usual appearance. You can name your tamed wolf using a wolf's name tag."
+      }
+    ]
+  },
+  {
+    "exp_name": "minilm + qwen + cot",
+    "embedding": "minilm",
+    "llm": "qwen",
+    "prompt": "cot",
+    "top_k": 3,
+    "avg_latency": 4.923776388168335,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": "1. First, we need to understand that crafting a sword requires two iron ingots and a stick.\n2. To craft a sword, we first need to open our crafting table.\n3. In the crafting table, we place 3 diamonds in the top row.\n4. Then, we add a stick in the middle row.\n5. The next step would be to craft the sword from these materials. This involves combining the iron ingots and sticks into a single item called a \"sword.\"\n6. Once we have crafted the sword, we can then use it as needed in our game world. \n\nSo, to craft a sword in Minecraft, follow these steps:\n\n1. Open your crafting table.\n2. Place 3 diamonds in"
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": "1. The context states that a creeper drops a 3D item when it is killed.\n2. It also mentions that this 3D item is different from a regular creeper's bullet when it is killed.\n3. When a creeper is killed by a skeleton or a stray with a bow, a random music disc is dropped from the pool of music discs.\n4. This pool consists of sixteen music discs that can be played in jukeboxes.\n5. Therefore, when a creeper is killed by a skeleton or a stray with a bow, it drops a random music disc from the pool of music discs. \n\nSo, to answer your question directly: A creeper drops a random music disc when it is killed."
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": "1. First, we need to understand that in the Bedrock Edition of Minecraft, you can create a portal using Netherwood.\n2. To create a portal, you'll need to follow these steps:\n   - Create a rectangular block of obsidian (which is Netherwood) with dimensions 14x14\n   - Activate the Nether portal using the \"Nether Portal\" command or any other method that allows you to activate portals\n3. Once the portal is activated, you should be able to see the portal on your map.\n4. You can now explore the Nether world by moving through the portal and interacting with the environment around you.\n5. If you want to create more portals, simply repeat steps"
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": "1. First, we need to understand that diamonds are natural resources that can only be obtained through mining or smelting processes. This means they cannot be created artificially.\n2. The question asks for the \"best\" method to find diamonds, implying there might be multiple ways to do so.\n3. We know that diamonds are typically found in caves, ravines, and by digging a mine pattern through the rock.\n4. To maximize our chances of finding diamonds, it would be beneficial to follow these cave exploration patterns.\n5. Additionally, digging a shaft and branching out in a specific pattern could also increase our chances of discovering diamonds.\n6. However, without more information about the specific conditions in which you're looking to find diamonds (e"
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": "1. First, we need to understand what a tamed wolf is and how it works in Minecraft.\n2. In Minecraft, a tamed wolf is an animal that can be fed with bone meal to grow stronger and more powerful.\n3. However, once a tamed wolf is fed with bone meal, it cannot eat more bone meal because it will stop eating and become weaker.\n4. If a tamed wolf is not swimming, it will sit instead of eating bone meal.\n5. To tame a wolf in Minecraft, you would feed it with bone meal and then let it go wild without any restrictions on what it eats.\n6. Once a tamed wolf is fed with bone meal, it will no longer accept additional bone meal,"
+      }
+    ]
+  },
+  {
+    "exp_name": "minilm + smollm + minimal",
+    "embedding": "minilm",
+    "llm": "smollm",
+    "prompt": "minimal",
+    "top_k": 3,
+    "avg_latency": 1.4447340488433837,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": ""
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": "A creeper drops a random music disc when killed."
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": "To build a nether portal in Minecraft, you need to create a rectangle of 14 blocks of obsidian and activate the Nether portal."
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": "The best way to find diamonds is to search for naturally occurring diamonds in caves and ravines, particularly in areas where the game generates strong diamond-bearing ore deposits."
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": "You can tame a wolf by feeding it bone meal."
+      }
+    ]
+  },
+  {
+    "exp_name": "minilm + smollm + detailed",
+    "embedding": "minilm",
+    "llm": "smollm",
+    "prompt": "detailed",
+    "top_k": 3,
+    "avg_latency": 1.1360918998718261,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": ""
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": ""
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": ""
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": ""
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "exp_name": "minilm + smollm + cot",
+    "embedding": "minilm",
+    "llm": "smollm",
+    "prompt": "cot",
+    "top_k": 3,
+    "avg_latency": 1.0247479915618896,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": ""
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": ""
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": ""
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": ""
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "exp_name": "mpnet + qwen + minimal",
+    "embedding": "mpnet",
+    "llm": "qwen",
+    "prompt": "minimal",
+    "top_k": 3,
+    "avg_latency": 4.557255268096924,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": "To craft a sword in Minecraft, follow these steps:\n1. Open your crafting table\n2. Place 3 diamonds in the top row of the table\n3. Place a stick in the middle row of the table\n4. Click on the \"Craft\" button (it looks like a hammer)\n5. Your sword should now appear in the inventory! \nNote: Diamonds are the best material for crafting swords in Minecraft because they have a high melting point and can be easily melted down into steel. Additionally, diamonds are more durable than other materials used in crafting swords. However, if you want to make a sword using other materials, you can always try that as well. Just remember to check the rules before attempting anything new! \ud83d\udee1"
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": "When a creeper is killed by a skeleton or stray with a bow, a random music disc is dropped from the pool of music discs. The answer is a random music disc."
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": "To build a Nether portal in Minecraft, follow these steps:\n\n1. Create a rectangular block of obsidian using the \"Create\" command (right-click on the screen) or by dragging and dropping an obsidian block onto the screen.\n\n2. Activate the Nether portal by clicking on the obsidian rectangle and pressing the \"Nether Portal\" button (the one that looks like a door).\n\n3. The Nether portal should now be activated and ready for use. You can then place your desired items inside the portal to create a new world entry point. \n\nNote: Depending on the version of Minecraft you are playing, there may be additional instructions or settings specific to your game's version. Always refer to your game's documentation for the most"
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": "The best way to find diamonds is to dig a shaft and branch out in a pattern to increase your chances of finding diamond ore. Answer: When exploring a cave for diamonds, it's recommended to place torches as you go to light the area. Answer: To obtain diamonds, you can either mine them with a pickaxe in caves or smelt diamond ore in a furnace. Answer: The best way to find diamonds is to dig a shaft and branch out in a pattern to increase your chances of finding diamond ore. Answer:\nThis answer provides multiple correct answers. Which one is the best answer? Let me know if you need any clarification or have additional questions! Answer: The best way to find diamonds is to dig a shaft and branch out in"
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": "To tame a wolf in Minecraft, you need to feed it bone meal and then use a wolf's name tag to give it a unique appearance. Additionally, if you want to make your wolf more noticeable, you can also add a dark texture to its appearance when it is swimming or in a rainy environment. Finally, if you want to breed wolves, you will need to select two wolves with different names and breed them together. Once they have been bred, they will both become tamed wolves. If you want to tame a wild wolf, you will need to first find one and then breed it with another wolf. After breeding, the new wolf will be tamed. You can also choose to keep the original wolf as a pet instead of taming"
+      }
+    ]
+  },
+  {
+    "exp_name": "mpnet + qwen + detailed",
+    "embedding": "mpnet",
+    "llm": "qwen",
+    "prompt": "detailed",
+    "top_k": 3,
+    "avg_latency": 4.357211637496948,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": "To craft a sword in Minecraft, follow these steps:\n\n1. Open your crafting table.\n2. Place 3 diamonds in the top row of the crafting table.\n3. Follow the instructions on the crafting table to place a stick in the middle row.\n4. Once all materials are placed, click the \"Craft\" button to start the crafting process.\n5. The sword will be crafted and ready for use. You can then use it to attack enemies or build structures in the game world. Remember that crafting swords requires diamond resources, which can only be found in certain locations like diamond mines or diamond farms. Additionally, some items may require special tools or mods to be crafted. Always check the rules and guidelines provided by the Minecraft modding community before"
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": "A random music disc\nExplanation: The context provided states that a creeper can drop a random music disc when killed. This directly answers the question about what a creeper drops when it's killed. There is no mention of any other specific items being dropped when a creeper is killed in this context. Therefore, based on the information given, the correct and only answer is that a creeper drops a random music disc."
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": "To build a Nether portal, follow these steps:\n\n1. Create a rectangle of 14 blocks of Obsidian using the following instructions:\n   - Place 14 blocks of Obsidian on the ground.\n   - Use the \"Create\" command (right-click) to create a new block layer.\n   - Add more blocks until you reach your desired height for the portal.\n2. Activate the Nether Portal by placing a Flint and Steel tool or a similar tool over the newly created block layer.\n3. The Nether portal should now be activated and ready to use. You can then place items inside the portal to open it. \n\nRemember that the exact dimensions may vary slightly depending on the specific version of Minecraft you're playing."
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": "The best way to find diamonds is to dig a mine pattern through the rock. This method increases your chances of finding diamond ore when exploring caves. Additionally, placing torches while exploring caves will help illuminate the area and make it easier to locate diamond ore. When branching off from the main path, choosing a random path and exploring it will also increase your chances of finding diamond ore. Crafting fences or walls to block off other paths can further enhance your chances of finding diamond ore. Lastly, using jack-o-lanterns as markers to guide your way back to the exit can also be helpful. By following these methods, you can maximize your chances of discovering diamond ore in your exploration of caves."
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": "To tame a wolf in Minecraft, you need to feed it bone meal and then name it with a wolf's name tag. Additionally, if the wolf is swimming or in a rainy environment, it will have a darker texture, making it stand out from its usual appearance. Finally, if the wolf was bred through breeding, it will automatically be tamed by the player who bred it, while wild wolves require to be tamed using bones. Remember to always respect the rules for taming wolves in Minecraft! (I don't know)"
+      }
+    ]
+  },
+  {
+    "exp_name": "mpnet + qwen + cot",
+    "embedding": "mpnet",
+    "llm": "qwen",
+    "prompt": "cot",
+    "top_k": 3,
+    "avg_latency": 4.900492095947266,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": "1. First, we need to understand that crafting a sword requires two iron ingots and a stick.\n2. The best material for crafting swords in Minecraft is diamond.\n3. To craft a sword, we need to open our crafting table and place three diamonds in the top row, then add a stick in the middle row.\n4. When you're ready to craft your sword, simply click on the crafting tab at the bottom of the screen.\n5. In the crafting window, select \"Iron Ingot\" from the left-hand menu.\n6. Then, choose \"Diamond\" as the next item to add to your inventory.\n7. Finally, click the \"Craft\" button to begin the process of creating your sword. \n\nBy following"
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": "1. The context provides information about how a creeper interacts with different types of creatures and weapons.\n2. It mentions that a creeper can drop a random music disc when it's killed by a skeleton or stray with a bow.\n3. This implies that the creeper will drop a specific type of music disc based on its interaction with these entities.\n4. Since the context doesn't specify which type of music disc this could be, we need to infer what kind of music disc might be dropped.\n5. Given that the context states \"random music disc\" when a creeper is killed by a skeleton or stray with a bow, we can conclude that the creeper will drop a random music disc.\nTherefore, a creeper drops a"
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": "To build a Nether portal in Minecraft, follow these steps:\n\n1. **Observe the Nether Portal**: First, understand that a Nether portal is a special type of portal that appears when you place an obsidian block in the ground. It allows players to teleport between worlds.\n\n2. **Create a Rectangle of Obsidian Blocks**: The first step is to create a rectangular area of obsidian blocks. This will be your base for the portal.\n\n3. **Activate the Nether Portal**: Once you have created your obsidian block rectangle, activate it. You'll need to press the \"N\" key on your keyboard or mouse to trigger the activation process.\n\n4. **Build the Portal Structure**: Now that you've activated the N"
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": "1. First, we need to understand where diamonds are typically found. Diamonds are commonly found in caves, ravines, and by digging a mine pattern through the rock.\n2. The key to finding diamonds lies in exploration. We should start by placing torches to illuminate the area and light up any potential hazards like traps or obstacles.\n3. Once we have illuminated the area, we should move on to explore it. This could involve going down a shaft or branching out into different directions.\n4. When exploring, we should aim to create a pattern that increases our chances of finding diamonds. This could mean choosing a path randomly, but also considering crafting fences or walls to block off other paths.\n5. To further increase our chances of finding diamonds"
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": "1. First, we need to understand what it means to tame a wolf in Minecraft. Taming a wolf involves feeding it bone meal and naming it with a unique wolf's name tag.\n2. To feed a wolf, we'll use the \"feed\" command in the chat window. This will give us some bone meal for the wolf.\n3. After feeding the wolf, we'll go to the \"tame wolf\" tab in the chat window. Here, we'll select the wolf we just fed.\n4. Once selected, we'll see a list of available names for the wolf. We can choose any one of these names to give our new wolf a unique name.\n5. Finally, we'll click on the chosen name to"
+      }
+    ]
+  },
+  {
+    "exp_name": "mpnet + smollm + minimal",
+    "embedding": "mpnet",
+    "llm": "smollm",
+    "prompt": "minimal",
+    "top_k": 3,
+    "avg_latency": 1.3651933193206787,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": ""
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": ""
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": "You can build a nether portal by creating a rectangle of 14 blocks of obsidian and activating the Nether portal."
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": ""
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "exp_name": "mpnet + smollm + detailed",
+    "embedding": "mpnet",
+    "llm": "smollm",
+    "prompt": "detailed",
+    "top_k": 3,
+    "avg_latency": 1.4342041969299317,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": ""
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": ""
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": ""
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": ""
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "exp_name": "mpnet + smollm + cot",
+    "embedding": "mpnet",
+    "llm": "smollm",
+    "prompt": "cot",
+    "top_k": 3,
+    "avg_latency": 1.341769027709961,
+    "samples": [
+      {
+        "question": "How do I craft a sword in Minecraft?",
+        "answer": ""
+      },
+      {
+        "question": "What does a creeper drop when killed?",
+        "answer": ""
+      },
+      {
+        "question": "How do I build a nether portal?",
+        "answer": ""
+      },
+      {
+        "question": "What is the best way to find diamonds?",
+        "answer": ""
+      },
+      {
+        "question": "How do I tame a wolf in Minecraft?",
+        "answer": ""
+      }
+    ]
+  }
+]

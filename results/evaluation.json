@@ -1,0 +1,110 @@
+[
+  {
+    "exp_name": "minilm+qwen+minimal",
+    "embedding": "minilm",
+    "llm": "qwen",
+    "prompt": "minimal",
+    "hit_at_3": 0.57,
+    "rouge_l": 0.2263030388257809,
+    "avg_latency": 7.327535860538482
+  },
+  {
+    "exp_name": "minilm+qwen+detailed",
+    "embedding": "minilm",
+    "llm": "qwen",
+    "prompt": "detailed",
+    "hit_at_3": 0.57,
+    "rouge_l": 0.23412148293665958,
+    "avg_latency": 6.4228347659111025
+  },
+  {
+    "exp_name": "minilm+qwen+cot",
+    "embedding": "minilm",
+    "llm": "qwen",
+    "prompt": "cot",
+    "hit_at_3": 0.57,
+    "rouge_l": 0.17547071263544864,
+    "avg_latency": 7.559069044589997
+  },
+  {
+    "exp_name": "minilm+smollm+minimal",
+    "embedding": "minilm",
+    "llm": "smollm",
+    "prompt": "minimal",
+    "hit_at_3": 0.57,
+    "rouge_l": 0.20780074078497585,
+    "avg_latency": 3.6338701033592224
+  },
+  {
+    "exp_name": "minilm+smollm+detailed",
+    "embedding": "minilm",
+    "llm": "smollm",
+    "prompt": "detailed",
+    "hit_at_3": 0.57,
+    "rouge_l": 0.0425,
+    "avg_latency": 2.7095416593551636
+  },
+  {
+    "exp_name": "minilm+smollm+cot",
+    "embedding": "minilm",
+    "llm": "smollm",
+    "prompt": "cot",
+    "hit_at_3": 0.57,
+    "rouge_l": 0.03663931379457661,
+    "avg_latency": 3.48820600271225
+  },
+  {
+    "exp_name": "mpnet+qwen+minimal",
+    "embedding": "mpnet",
+    "llm": "qwen",
+    "prompt": "minimal",
+    "hit_at_3": 0.55,
+    "rouge_l": 0.2114269525137286,
+    "avg_latency": 6.433102133274079
+  },
+  {
+    "exp_name": "mpnet+qwen+detailed",
+    "embedding": "mpnet",
+    "llm": "qwen",
+    "prompt": "detailed",
+    "hit_at_3": 0.55,
+    "rouge_l": 0.22987137666099233,
+    "avg_latency": 6.551791160106659
+  },
+  {
+    "exp_name": "mpnet+qwen+cot",
+    "embedding": "mpnet",
+    "llm": "qwen",
+    "prompt": "cot",
+    "hit_at_3": 0.55,
+    "rouge_l": 0.17477894299790275,
+    "avg_latency": 7.6824715304374696
+  },
+  {
+    "exp_name": "mpnet+smollm+minimal",
+    "embedding": "mpnet",
+    "llm": "smollm",
+    "prompt": "minimal",
+    "hit_at_3": 0.55,
+    "rouge_l": 0.18351025060978857,
+    "avg_latency": 3.1674212431907653
+  },
+  {
+    "exp_name": "mpnet+smollm+detailed",
+    "embedding": "mpnet",
+    "llm": "smollm",
+    "prompt": "detailed",
+    "hit_at_3": 0.55,
+    "rouge_l": 0.0425,
+    "avg_latency": 2.6795911407470703
+  },
+  {
+    "exp_name": "mpnet+smollm+cot",
+    "embedding": "mpnet",
+    "llm": "smollm",
+    "prompt": "cot",
+    "hit_at_3": 0.55,
+    "rouge_l": 0.04158812686299866,
+    "avg_latency": 3.921560163497925
+  }
+]
